@@ -5,4 +5,7 @@ echo "Welcome to the VAMI Update Repository Appliance!
 To access the UI, please direct your browser to http://$ip/ or log in to configure.
 The default root password is vura.
 
-`df -h`" | tee /etc/issue
+`df -h`
+
+This list updates at boot and may be out of date.
+" | tee /etc/issue
