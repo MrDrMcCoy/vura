@@ -50,4 +50,6 @@ Technologies Used:
 
  - Python 2.7
  - CherryPy
+ - jQuery
+ - DataTables
  - genisoimage
