@@ -11,7 +11,7 @@ if [ "$USER" != root ]; then
 		fi
 		authbind --deep python vura.py
 	else
-		echo "authbind not available,running as root to allow binding port 80"
+		echo "authbind not available, running as root to allow binding port 80"
 		sudo python vura.py
 	fi
 else
