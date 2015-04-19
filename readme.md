@@ -29,8 +29,8 @@ https://github.com/nakedhitman/vura/releases
 
 [vApp Version (Recommended)] 
 
-1. Deploy vApp in location with internet access
-2. Obtain the Update URL from the administration page of your appliance (usually https:// [your appliance] :5480)
+1. Deploy and boot VURA appliance in location with internet access
+2. Obtain the Update URL from the administration page of your VAMI appliance (usually https://[your appliance IP]:5480)
 3. Point your browser to the ip address of the VURA appliance
 4. Paste the URL in the URL field of the UI
 5. Give the repository a name without spaces or special characters
