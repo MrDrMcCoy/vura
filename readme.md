@@ -8,18 +8,18 @@ The VAMI Update Repository Appliance is a tool to help you create a portable upd
 Requirements:
 ----
 
-[Source Version]
- - Python 2.7
- - Internet access for initial repository creation
- - User permission to bind port 80
- - (Optional) genisoimage - If you wish to be able to generate ISO images
-
 [vApp Version]
  - ESXi 4.0U2+
  - 1 vCPU
  - 512 MB RAM
  - 16 GB Disk Space (thick provisioned)
  - Internet access for initial repository creation
+ 
+[Source Version]
+ - Python 2.7
+ - Internet access for initial repository creation
+ - User permission to bind port 80
+ - (Optional) genisoimage - If you wish to be able to generate ISO images
 
 Instructions
 ----
