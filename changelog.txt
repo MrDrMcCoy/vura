@@ -1,9 +1,0 @@
-0.1 01/29/2015
-- Initial release
-- Support for creating local repos for offline updates
-
-0.2 04/07/2015
-- VURA now creates ISO images for offline updates
-- Documentation improvements
-- Updated system packages
-- Improved ability to continue downloads
