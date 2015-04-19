@@ -3,7 +3,7 @@
 About:
 -----
 
-The VAMI Update Repository Appliance is a tool to help you create a portable update repository for VAMI-enabled VMware appliances. This allows you to transport the necessary bits to perform upgrades to network locations without internet access. It can also help to generate update ISO images for appliances that do not have them available for download.
+The VAMI Update Repository Appliance is a tool to help you create a portable update repository for VMware VAMI-enabled VMware virtual appliances. This allows you to transport the necessary bits for performing upgrades to locations without internet access. It can also help to generate update ISO images for appliances that do not have them available for download.
 
 Requirements:
 ----
@@ -35,7 +35,8 @@ https://github.com/nakedhitman/vura/releases
 4. Paste the URL in the URL field of the UI
 5. Give the repository a name without spaces or special characters
 6. Press the Create button
-7. You may now either download the ISO image and attach it to your VM to upgrade it, or paste the Update URL into the administration page of your appliance
+7. Migrate the VURA appliance to your desired environment
+8. You may now either download the ISO image and attach it to your VM to upgrade it, or paste the Update URL into the administration page of your appliance
 
 [Source Version]
 
