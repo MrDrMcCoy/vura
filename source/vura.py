@@ -51,7 +51,7 @@ def statewriter(name, message):
 def fetch(name, url, destination, queuesize):
     global progress
     try:
-        #cherrypy.log('| INFO | Downloading '+destination)
+        #cherrypy.log('| DEBUG | Downloading '+destination)
         urllib.urlretrieve(url, destination)
     except:
         cherrypy.log('| ERROR | Unable to download '+destination)
