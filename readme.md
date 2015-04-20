@@ -18,7 +18,7 @@ Requirements:
 [Source Version]
  - Python 2.7
  - Internet access for initial repository creation
- - User permission to bind port 80
+ - User permission to bind port 80 (or use authbind - recommended)
  - (Optional) genisoimage - If you wish to be able to generate ISO images
 
 Instructions
@@ -42,7 +42,7 @@ https://github.com/nakedhitman/vura/releases
 
 0. Ensure you have adequate disk space to host 2x the size of the update repository you will be downloading. You can assume it will be similar in size to the original OVA image you used to deploy it.
 1. Download source tree to a machine that has Python 2.7
-2. Execute vura.py as a user that can bind port 80
+2. Execute vura.py as a user that can bind port 80 (or use authbind - recommended)
 3. Follow appliance instructions starting at Step 2
 
 Technologies Used:
